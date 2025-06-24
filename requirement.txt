@@ -2,3 +2,5 @@ panel
 hvplot
 geopandas
 pandas
+shapely
+fiona
